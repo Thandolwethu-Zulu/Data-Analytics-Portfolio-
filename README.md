@@ -74,7 +74,7 @@ A Collection of data analytics project showcasing data cleaning ,exploratory ana
 
 ## 2. Primary Keys (PK) & Foreign Keys (FK) Summary
 
-| Table / Entity | Primary Key (PK) | Foreign Key(s) (FK) | References Entity |
+|  Entity | Primary Key (PK) | Foreign Key(s) (FK) | References Entity |
 | :--- | :--- | :--- | :--- |
 | **Customer** | `Customer_ID` | *None* | — |
 | **Customer_Address** | `Address_ID` | `Customer_ID` | `Customer(Customer_ID)` |
