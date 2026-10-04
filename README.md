@@ -1,5 +1,36 @@
-# Data-Analytics-Portfolio-
-A Collection of data analytics project showcasing data cleaning ,exploratory analysis,and dashboard visualization.
+# 📊 Data Analytics Portfolio
+
+![SQL](https://img.shields.io/badge/SQL-Basic-blue)
+![Excel](https://img.shields.io/badge/Excel-Intermediate-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Learning-yellow)
+![Data Analytics](https://img.shields.io/badge/Data%20Analytics-Portfolio-orange)
+
+
+---
+# Database ERD Project
+
+## Overview
+This project demonstrates my understanding of relational databases
+and Entity Relationship Diagrams (ERDs).
+
+## Skills Demonstrated
+- Database design
+- Entity Relationship Diagrams
+- Primary keys
+- Foreign keys
+- Relationships
+- Cardinality
+- Relational databases
+- SQL
+
+## Project Description
+I designed an ERD showing the relationships between entities in a
+relational database.
+
+## Tools Used
+- Draw.io
+- SQL
+- GitHub
 # WitleShop Online Retail System - Database Design & ERD
 
 ## 1. Identified Entities and Attributes
