@@ -3,7 +3,7 @@ A Collection of data analytics project showcasing data cleaning ,exploratory ana
 # WitleShop Online Retail System - Database Design & ERD
 
 ## 1. Identified Entities and Attributes
-
+ 
 ### Customer
 - **Customer_ID** (PK)
 - Full_Name
